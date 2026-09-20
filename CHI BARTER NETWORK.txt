@@ -22,7 +22,8 @@ Chi Coins exists in two forms:
 What is a Chi Coin? It has a biology cycle, it has varying value states. It can be minted by bartering for CC. 
 The Biology Cycle of Chi Coin phases- Fresh, Mass, Sprout, Bloom, and Seed. 
 The value states- Fresh 100%, Mass 95%, Sprout 90% of Mass, Bloom 100% and mints a new Fresh CC. Lastly Seed, this interesting phase deletes the coin's serial number allowing it to be reminted by another user but it remains in a user's wallet as a .8 of a CC coin. When a user gains .2 more fractional, a new coin is automatically minted from the two fractional pieces. 
-The purpose of Mass and Sprout- these small percentages are fees that help Chi Barter Network run. 
+
+The purpose of Mass and Sprout- these small percentages are fees routed to wallet CHIHQ001 which help Chi Barter Network run. The fees are a Compounding Model, a Sprout would have 85% Buying Power due to it being 90% of 95. 
 The purpose of Bloom- to reward real world transactions with more buying power. 
 The purpose of Seed- to prevent hyper inflation of CC. 
 
@@ -126,14 +127,16 @@ Donatable
 Filtered by location first, then global
 This encourages neighbors helping neighbors.
 
-12. Reserve Backing
-All fiat used for subscriptions to the Chi Barter Network are held in reserve. 
+12: Protocol Treasury & Community Fund
 
-This ensures:
-Trust
-Stability
-Transparency
+    Chi Barter Network does not peg or redeem Chi Coins for fiat currency. All annual software subscription fees are held in a transparent Protocol Development & Operational Fund.
 
+    These funds are deployed strictly toward:
+
+        Commissioning original artwork from independent artists for physical note series.
+        Subsidizing paper note printing and distribution in low-connectivity rural communities.
+        Maintaining open-source decentralized node infrastructure and mobile client development.
+        Spreading of the Barter Network via advertisements and employments in the developing world. 
 
 13. Philosophy
 Chi Barter Network is built on four principles:
@@ -159,5 +162,7 @@ It is designed to strengthen local economies, support charitable causes, and cre
 Chi Cash is not the future of money. It is the future of community.
 
 15. Chi Barter Network Profits
-For $20/year users gain subscription to the Barter Network and have access to a button in their interface, "Gather Windblown Seeds". When subscription begins or renews this "Gather Windblown Seeds" button becomes available. If the GWS button is pressed user's gain 300 Fresh CC into their wallets. 
+How do we plan on making money to spread the ideal economic system? Membership & Genesis Distribution 
+To prevent Sybil attacks and support ongoing network maintenance, users pay a $20 annual software license to access the decentralized Chi Barter Network.
+Upon membership initialization and annual renewal, subscribers gain "Gather Windblown Seeds" function. Activating this grants the new wallet a one-time Genesis balance of 300 Fresh CC to initiate local trade. Additional balances must be earned through real-world trade, labor, and community commerce.
 
