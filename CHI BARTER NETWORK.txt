@@ -1,0 +1,156 @@
+CHI CASH WHITE PAPER
+A Demurrage-Based Art Currency for Community Barter and Regenerative Circulation
+By Chisum Burton
+1. Abstract
+Modern fiat and cryptocurrency systems reward hoarding, slow circulation, and concentrate wealth in the hands of those who store value rather than those who create it. Chi Cash proposes a hybrid physical-digital currency designed to reverse this dynamic through demurrage, velocity mining, and art-backed physical notes.
+Each Chi Cash unit is a unique 1cc serial number that circulates, expires, and regenerates value through real economic activity. Physical notes contain bundles of these serials and feature original artwork from invited artists. As Chi Cash moves through communities, it “blooms,” creating new units, while expired units flow back into the network to be mined by another user. 
+Chi Cash is not a speculative asset. It is a community engine, a barter facilitator, and a living economic organism designed to reward participation, generosity, and local trade.
+2. Introduction
+Chi Cash is a demurrage-based currency system that blends:
+Physical art notes
+Digital wallets
+Velocity-based value creation
+Expiration-driven redistribution
+Anti-hoarding incentives
+Community-visible savings plans
+The goal is simple:
+To create a global barter-friendly currency that rewards circulation, supports local communities, and channels expired value into charitable causes.
+Chi Cash is reserve-backed, transparent, and designed to be both collectible and functional.
+3. System Overview
+Chi Cash exists in two forms:
+A. Physical Notes
+Printed on high-quality paper with original artwork. Each note contains a fixed number of 1cc serial units:
+Notes contain no numbers in the artwork. A 12-digit serial number and barcode are stamped along the edge. A note must be scanned via QR to observe it's balance. This paper form is expected to be mainly useful in regions that lack Smartphones and have only access to the system via paper real form barter. 
+B. Digital Units
+Each 1cc serial exists digitally with:
+A unique 12 digit ID
+A value state- 100, 95, 90, and 100
+A status- Active and Pending 
+A last-four-wallet transaction history- This prevents Boomerang and Ping Pong Transactions
+An expiration timer- Once a coin reaches 3 months of age in a wallet without movement and not in a Savings Plan, it is deleted from the ledger. 
+A Bloom cycle counter- Fresh, Mass, Seed, Bloom. At Bloom new coins are minted in the recipient's wallet. 
+Digital wallets automatically manage serials using Chi Cash’s autopay logic.
+4. Hierarchy of Supply
+Chi Cash is structured as a nested hierarchy:
+Code
+CHIHQ001
+   ??? Booster Packs
+               ??? CC Serials (1cc each)
+HQ Vault
+Holds the master supply (initially ~24 billion CC).
+Booster Packs
+Each pack contains:
+2 × 100cc notes
+20 × 5cc notes Total: 300 CC serials
+Activation
+A booster pack activates when:
+1. HQ scans the pack before shipping
+2. The recipient scans the pack upon arrival
+Activation starts a 3-month expiration timer for all serials inside.
+5. CC Serial States
+Each 1cc serial has two independent state systems:
+A. Status
+Active – in circulation
+Pending – locked in an offline transaction window or in Savings Plan. 
+B. Value State
+Each serial progresses through:
+1. Fresh – 100% value
+2. Mass – 95% value (5% fee to CHIHQ001)
+3. Seed – 90% value of Mass State (another 5% fee to CHIHQ001)
+4. Bloom – 100% value + mints a new Fresh serial
+5. Bloom?Fresh – ghost step; next transaction resets to Fresh
+This cycle repeats indefinitely.
+6. Velocity Mining (Bloom)
+When a CC serial reaches Bloom, it:
+Remains Bloom until its next transaction.
+Mints a new 1CC Fresh coin into the recipient’s wallet.
+Then transitions to Fresh on its next hop.
+Bloom rewards movement, not storage.
+This encourages:
+Local trade
+Entrepreneurship
+Community participation
+Circulation over hoarding
+7. Demurrage & Expiration
+Every serial has a 3-month lifespan after activation.
+If not spent before expiration:
+Expired CC is not destroyed — it is recycled into the network waiting to be minted again. 
+8. Anti-Boomerang and Ping Pong Rules
+To prevent laundering and artificial velocity, each serial tracks its last four wallets.
+A transaction is rejected if:
+The recipient appears in the last two wallets
+The pattern forms A ? B ? C ? B
+The pattern forms A ? B ? A
+This ensures organic circulation.
+9. Autopay Logic
+Digital wallets automatically choose which serials to spend:
+1. Soonest to expire first
+2. Lowest value state first (Seed ? Mass ? Fresh ? Bloom)
+3. Avoid boomerang risk
+4. Bloom serials spent last (to maximize Bloom events)
+Users cannot manually select digital serials. 
+Exception: Physical Notes
+When using paper notes, users may choose which note to hand over.
+This gives physical real world paper art notes a small strategic advantage for Bloom. 
+11. Offline Transactions
+If no internet is available:
+Buyer and seller exchange a signed offline transaction
+The involved serials enter Pending state
+Pending serials cannot expire
+One party must upload the transaction within 24 hours
+If uploaded ? transaction completes
+If not ? serials revert to previous state
+This preserves barter even without connectivity.
+12. Collector Economy
+Collectors can trade notes based on:
+Art series
+Unique serials
+Bloom history
+Rarity
+This creates a secondary market that enhances Chi Cash’s cultural value.
+13. Social Explorer & Savings Plans
+Chi Cash includes a public social layer:
+Wallet Explorer
+Users can view:
+Public wallet handles
+Total earned
+Bloom events
+Savings plans
+Charity contributions
+Savings Plans
+Users may lock CC for up to one year.
+Plans are:
+Public
+Donatable
+Filtered by location first, then global
+This encourages neighbors helping neighbors.
+14. Reserve Backing
+All fiat used to purchase booster packs is held in full reserve.
+This ensures:
+Trust
+Stability
+Transparency
+Non-speculative value
+Crypto payments may be accepted if auto-converted to USD.
+15. Philosophy
+Chi Cash is built on four principles:
+1. Circulation over hoarding
+Demurrage ensures money moves.
+2. Community over speculation
+Bloom rewards participation, not storage.
+3. Art over anonymity
+Each note is a cultural artifact.
+4. Redistribution over decay
+Chi Cash is not just a currency — it is a moral economic system.
+16. Conclusion
+Chi Cash introduces a new paradigm for currency:
+Art-backed
+Community-driven
+Velocity-rewarding
+Demurrage-powered
+Anti-hoarding
+Collectible
+Hybrid physical-digital
+It is designed to strengthen local economies, support charitable causes, and create a living, breathing monetary ecosystem where value flows, regenerates, and uplifts communities.
+Chi Cash is not the future of money. It is the future of community.
+
